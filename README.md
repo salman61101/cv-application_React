@@ -69,10 +69,6 @@ src/
 - Building a responsive layout with modern CSS
 - Separating presentation styles into focused stylesheet files
 
-## Live Demo
-
-Live demo: [Add your deployed link here]
-
 ## Screenshot
 
 ![CV Application](images/screenshot.png)
